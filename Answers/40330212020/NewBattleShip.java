@@ -2,7 +2,7 @@ package org.example;
 import java.util.Scanner;
 import java.util.Random;
 
-// Class representing a Ship
+
 class Ship {
     private final int size;
 
